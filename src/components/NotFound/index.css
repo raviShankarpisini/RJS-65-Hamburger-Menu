@@ -1,0 +1,18 @@
+/* Write your CSS here */
+
+.bottom-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.not-found-image {
+  height: 400px;
+}
+
+p {
+  color: #616e7c;
+  font-family: 'Roboto';
+  font-size: 18px;
+}
